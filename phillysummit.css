@@ -18,7 +18,6 @@ body {
 
 .header-text {
   padding: 1rem;
-  background: #ED6E46;
 }
 
 .header-image {
@@ -27,13 +26,8 @@ body {
 }
 
 .header-title {
-  color: ghostwhite;
+  color: #ED6E46;;
   font-size: 1.7rem;
-}
-
-.header-by {
-  color: white;
-  font-size: .9rem;
 }
 
 .page {
