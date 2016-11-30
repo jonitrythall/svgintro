@@ -3,7 +3,6 @@ html {
 }
 
 body {
-  background: #EFF4EA;
   color: #4a4a4a;
 }
 
@@ -34,14 +33,8 @@ body {
 
 .header-by {
   margin-bottom: 0;
-  color: #EFF4EA;
+  color: white;
   font-size: .9rem;
-}
-
-.header-where {
-  margin-top: 10px;
-  font-size: .6rem;
-  color: #EFF4EA;
 }
 
 .page {
